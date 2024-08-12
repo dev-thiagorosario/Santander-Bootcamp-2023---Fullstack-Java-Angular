@@ -1,0 +1,7 @@
+ng generate component header
+ng generate component footer
+ng generate component pages/login
+ng generate component pages/register
+ng generate component pages/dashboard
+ng generate component components/task-list
+ng generate component components/task-item
